@@ -57,8 +57,7 @@ specified above.
 
 * Please state any assumptions that you make, but make sure that
   you don’t introduce new constraints that are not listed in the problem definition.
-* Translate your E/R diagram into a relational schema, and show the SQL statements
-  needed to create the relations. If your translation cannot capture any of the
+* Show the SQL CREATE TABLE statements needed to convert your E/R diagram into a relational schema. If your translation cannot capture any of the
   constraints in the E/R diagram, explain why.
 * **Note/hint**: a weak entity set is a “regular” entity set in that it can
   participate in relationship sets other than the identifying relationship set, just as any
